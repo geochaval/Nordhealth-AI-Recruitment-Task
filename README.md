@@ -16,10 +16,9 @@ Automatically generates veterinary discharge notes from Provet Cloud consultatio
    ```
 
 3. Create a .env file in the root directory and configure API key: 
-
-```ini
-OPENAI_API_KEY = your_openai_key
-```
+   ```ini
+   OPENAI_API_KEY = your_openai_key
+   ```
 
 ## Usage
 
